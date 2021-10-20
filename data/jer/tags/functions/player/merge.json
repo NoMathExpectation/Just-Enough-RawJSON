@@ -1,0 +1,15 @@
+{
+    "values": 
+    [
+        "jer:actionbar/text/merge",
+        "jer:title/text/merge",
+        "jer:subtitle/text/merge",
+        "jer:tellraw/text/merge",
+        "jer:bossbar/text/merge",
+        "jer:actionbar/ui/merge",
+        "jer:title/ui/merge",
+        "jer:subtitle/ui/merge",
+        "jer:tellraw/ui/merge",
+        "jer:bossbar/ui/merge"
+    ]
+}

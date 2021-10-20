@@ -1,0 +1,10 @@
+{
+    "values": 
+    [
+        "jer:actionbar/get",
+        "jer:bossbar/get",
+        "jer:subtitle/get",
+        "jer:tellraw/get",
+        "jer:title/get"
+    ]
+}

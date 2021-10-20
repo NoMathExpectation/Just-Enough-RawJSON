@@ -1,0 +1,12 @@
+{
+    "values": 
+    [
+        {"id": "do_not_put_functions_used_to_load_raw_jsons_here","required": false},
+        "jer:list/load",
+        "jer:tellraw/load",
+        "jer:actionbar/load",
+        "jer:title/load",
+        "jer:subtitle/load",
+        "jer:bossbar/load"
+    ]
+}

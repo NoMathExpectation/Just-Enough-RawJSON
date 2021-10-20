@@ -1,0 +1,15 @@
+{
+    "values": 
+    [
+        "jer:actionbar/text/remove",
+        "jer:title/text/remove",
+        "jer:subtitle/text/remove",
+        "jer:tellraw/text/remove",
+        "jer:bossbar/text/remove",
+        "jer:actionbar/ui/remove",
+        "jer:title/ui/remove",
+        "jer:subtitle/ui/remove",
+        "jer:tellraw/ui/remove",
+        "jer:bossbar/ui/remove"
+    ]
+}

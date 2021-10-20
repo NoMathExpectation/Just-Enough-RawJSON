@@ -1,0 +1,15 @@
+{
+    "values": 
+    [
+        "jer:actionbar/text/add",
+        "jer:title/text/add",
+        "jer:subtitle/text/add",
+        "jer:tellraw/text/add",
+        "jer:bossbar/text/add",
+        "jer:actionbar/ui/add",
+        "jer:title/ui/add",
+        "jer:subtitle/ui/add",
+        "jer:tellraw/ui/add",
+        "jer:bossbar/ui/add"
+    ]
+}

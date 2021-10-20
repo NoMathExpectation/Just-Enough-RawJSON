@@ -1,0 +1,1 @@
+execute if score #version jerCalc matches 100 run function jer:main

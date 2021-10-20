@@ -1,0 +1,10 @@
+{
+    "values": 
+    [
+        "jer:actionbar/clear",
+        "jer:title/clear",
+        "jer:subtitle/clear",
+        "jer:tellraw/clear",
+        "jer:bossbar/clear"
+    ]
+}

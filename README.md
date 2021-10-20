@@ -1,4 +1,4 @@
 # Just Enough RawJSON
-A datapack that help Raw JSON texts organized.
+A datapack that help raw JSON texts organized.
 
-It is still under development.
+Here is an introduction in Chinese: TBD
