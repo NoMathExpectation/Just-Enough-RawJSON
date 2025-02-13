@@ -1,0 +1,2 @@
+execute if data storage jer:subtitle Player.Text[0].JSON[0] run title @s subtitle ["",{"storage":"jer:subtitle","nbt":"Player.UI[].JSON","separator":"","interpret":true},"\n",{"storage":"jer:subtitle","nbt":"Player.Text[0].JSON[]","separator":"","interpret":true}]
+execute unless data storage jer:subtitle Player.Text[0].JSON[0] run title @s subtitle ["",{"storage":"jer:subtitle","nbt":"Player.UI[].JSON","separator":"","interpret":true},"\n",{"storage":"jer:subtitle","nbt":"Player.Text[0].JSON","interpret":true}]
